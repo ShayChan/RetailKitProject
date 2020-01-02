@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F52E8799-43C6-407F-88CA-9B484F3DF408"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "F1EBAF9A-4E7C-487B-A152-562A28A546DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE10D612-AEB4-4CEF-903A-FAE6C472CBDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/MainBody/CheckWork/Controller/RKCheckWorkVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "301"
+            endingLineNumber = "301"
+            landmarkName = "amapLocationManager(_:didUpdate:reGeocode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60549FD0-6E76-427C-8B8D-5FAA76513B74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/Tools/Calendar/LTSCalendarScrollView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65ADDD68-93B5-4589-A5E7-7D5156F4A3F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/Tools/Calendar/LTSCalendarScrollView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA4733D5-C577-4D63-B5BC-E42242358321"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/Tools/DSNetworkRequest/RKNetworkFuncVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "getTemplatedDetailRequst(parameArr:success:faild:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA4733D5-C577-4D63-B5BC-E42242358321 - dc9bcebcd5765221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetailKit.NetworkTools.getTemplatedDetailRequst(parameArr: Swift.Array&lt;Swift.String&gt;, success: (Any) -&gt; (), faild: (Any) -&gt; ()) -&gt; ()"
+                  moduleName = "RetailKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chen/Documents/%E9%A1%B9%E7%9B%AE/%E6%96%B0%E9%A1%B9%E7%9B%AE/RetailKitProject/RetailKitProject/Tools/DSNetworkRequest/RKNetworkFuncVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "2147">
+               </Location>
+               <Location
+                  uuid = "CA4733D5-C577-4D63-B5BC-E42242358321 - 6c5216328b1d8c4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in RetailKit.NetworkTools.getTemplatedDetailRequst(parameArr: Swift.Array&lt;Swift.String&gt;, success: (Any) -&gt; (), faild: (Any) -&gt; ()) -&gt; ()"
+                  moduleName = "RetailKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chen/Documents/%E9%A1%B9%E7%9B%AE/%E6%96%B0%E9%A1%B9%E7%9B%AE/RetailKitProject/RetailKitProject/Tools/DSNetworkRequest/RKNetworkFuncVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7BCC3E7-9C17-4ED6-AA74-DF280A385756"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/MainBody/HomePage/Controller/RKHomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "getTemplatedDetailData(indexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EEAA1F6-4EBA-4F06-A3CE-51BE89AE3B97"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/MainBody/CheckWork/Controller/RKCheckWorkVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "deinit"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B951FE0-869E-4E0E-AFAE-E117FE94ABE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetailKitProject/MainBody/CheckWork/Controller/RKPunchClockVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "deinit"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
